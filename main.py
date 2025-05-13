@@ -1,8 +1,9 @@
 from bernas import base_address
 from buenacifra import username
-#TODO Roldan - Superhero Name Module
+from roldan import hero_name
 #TODO Tero - Costume Color Module
 
 print("\nSuperhero Information Generator\n")
+print(f"Hero Name: {hero_name}")
 print(f"Username: {username}")
 print(f"Base Address: {base_address}")
