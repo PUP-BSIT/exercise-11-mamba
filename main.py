@@ -1,8 +1,6 @@
 from bernas import base_address
 from buenacifra import print_username
 from roldan import print_hero_name
-from tero import random_food
-from roldan import hero_name
 from tero import get_random_food
 
 print("\nSuperhero Information Generator\n")
