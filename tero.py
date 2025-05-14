@@ -14,4 +14,4 @@ def get_random_food():
     food_items = get_emoji_menu().strip().split("\n")
     return random.choice(food_items)
 
-random_food = get_random_food
+random_food = get_random_food()
